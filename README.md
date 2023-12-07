@@ -7,14 +7,11 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/enzolouis/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://discord.com/channels/@me/418154142175854613">
-      <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/enzolouis/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://discord.com/channels/@me/418154142175854613"><img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/></a>
   </div>
 </div>
+
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img src="https://komarev.com/ghpvc/?username=enzolouis&style=flat-square&color=blue" alt=""/>
@@ -31,7 +28,6 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
 ---
 ### 🛠️ Languages and Tools :
 <div><!--git-original-wordmark.svg-->
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/> (django)
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
