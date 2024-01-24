@@ -51,4 +51,6 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
 ---
 ### 🔥 Others :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzolouis&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzolouis&layout=compact&theme=vision-friendly-dark&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzolouis&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enzolouis&theme=dark&background=000000)](https://git.io/streak-stats)
