@@ -22,7 +22,7 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
 - 👨‍🎓 I’m studying IT in a Bachelor of Science.
 - ❤️ I love Python
 - 💙 I like front-end and back-end
-- ☢️ I'm currently learning Java and working on some basic games with JSwing
+- ☢️ I'm currently learning Java and php
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-enzolouis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enzolouis/)
 
 ---
@@ -54,6 +54,5 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzolouis&langs_count=10&layout=compact&theme=vision-friendly-dark&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzolouis&langs_count=10&layout=compact&theme=vision-friendly-dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enzolouis&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enzolouis)](https://github.com/anuraghazra/github-readme-stats)
 
 
