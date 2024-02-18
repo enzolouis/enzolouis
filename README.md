@@ -5,15 +5,8 @@
 - 📫 How to reach me: ...
 -->
 
-<div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/enzolouis/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://discord.com/channels/@me/418154142175854613"><img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/></a>
-  </div>
-</div>
-
 <h1>
-  Hi there
+  Hi there, I'm Enzo LOUIS
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img src="https://komarev.com/ghpvc/?username=enzolouis&style=flat-square&color=blue" alt=""/>
 </h1>
 
