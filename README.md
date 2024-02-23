@@ -1,16 +1,9 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
--->
-
 <h1>
   Hi there, I'm Enzo LOUIS
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img src="https://komarev.com/ghpvc/?username=enzolouis&style=flat-square&color=blue" alt=""/>
 </h1>
 
-### 🕺 About Me :
+### 🕺 About me :
 I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">-->
 - 👨‍🎓 I’m studying IT in a Bachelor of Science (second year now)
 - ❤️ I love Python
