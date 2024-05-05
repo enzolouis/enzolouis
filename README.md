@@ -8,7 +8,7 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
 - 👨‍🎓 I’m studying IT in a Bachelor of Science (second year now)
 - ❤️ I love Python
 - 💙 I like front-end and back-end
-- ☢️ I'm currently learning Java and php
+- ☢️ I'm currently learning Node.js with AdonisJS
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-enzolouis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enzolouis/)
 
 ---
