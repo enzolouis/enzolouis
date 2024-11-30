@@ -5,7 +5,7 @@
 
 ### 🕺 About me :
 I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">-->
-- 👨‍🎓 I’m studying IT in a Bachelor of Science (second year now)
+- 👨‍🎓 I’m studying IT in a Bachelor of Science (third year now)
 - ❤️ I love Python
 - 💙 I like front-end and back-end
 - ☢️ I'm currently learning Node.js with AdonisJS
@@ -30,18 +30,19 @@ I am a Junior Developer from France, Toulouse.<!--<img src="https://media.giphy.
             </th>
             <th>
               <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
               <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+              <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
               <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
               <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-              <img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" title="Sublime text" alt="Sublime text" width="40" height="40"/>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Boostrap" width="40" height="40"/>&nbsp;
+              <!--<img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" title="Sublime text" alt="Sublime text" width="40" height="40"/>-->
             </th>
             <th>
-              <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
               <img src="https://i.ibb.co/Jj8FwC6/logo-ada.png" title="Ada" alt="Ada" width="40" height="40"/>&nbsp;
               <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-              <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Boostrap" width="40" height="40"/>&nbsp;
               <img src="https://www.tutorialspoint.com.cach3.com/assets/videos/courses/24/images/course_24_image.png" title="Oracle et PL/SQL"  alt="Oracle et PL/SQL" width="40" height="40"/>&nbsp;
-              <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
             </th>
         </tr>
     </thead>
